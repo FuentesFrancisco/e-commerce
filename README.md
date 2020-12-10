@@ -10,7 +10,7 @@ E-commerce desarrollado con las tecnologias:  PERN stack ( PostgreSQl, sequelize
 
 funcionalidades de usuario:
 
-Registar usuario
+Registar usuario<br>
 Login usuario
 Login con autenticacion de Google
 Perfil e imagen de usuario modificables
